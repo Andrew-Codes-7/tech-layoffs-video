@@ -1,0 +1,325 @@
+{
+  "yearly": [
+    {
+      "year": 2020,
+      "employees": 80998,
+      "events": 475
+    },
+    {
+      "year": 2021,
+      "employees": 15823,
+      "events": 31
+    },
+    {
+      "year": 2022,
+      "employees": 165269,
+      "events": 821
+    },
+    {
+      "year": 2023,
+      "employees": 264220,
+      "events": 845
+    },
+    {
+      "year": 2024,
+      "employees": 152922,
+      "events": 388
+    },
+    {
+      "year": 2025,
+      "employees": 72808,
+      "events": 113
+    }
+  ],
+  "monthly": [
+    {
+      "ym": "2020-03",
+      "employees": 9628
+    },
+    {
+      "ym": "2020-04",
+      "employees": 26710
+    },
+    {
+      "ym": "2020-05",
+      "employees": 25804
+    },
+    {
+      "ym": "2020-06",
+      "employees": 7627
+    },
+    {
+      "ym": "2020-07",
+      "employees": 7112
+    },
+    {
+      "ym": "2020-08",
+      "employees": 1969
+    },
+    {
+      "ym": "2020-09",
+      "employees": 609
+    },
+    {
+      "ym": "2020-10",
+      "employees": 450
+    },
+    {
+      "ym": "2020-11",
+      "employees": 237
+    },
+    {
+      "ym": "2020-12",
+      "employees": 852
+    },
+    {
+      "ym": "2021-01",
+      "employees": 6813
+    },
+    {
+      "ym": "2021-02",
+      "employees": 868
+    },
+    {
+      "ym": "2021-03",
+      "employees": 47
+    },
+    {
+      "ym": "2021-04",
+      "employees": 261
+    },
+    {
+      "ym": "2021-05",
+      "employees": 0
+    },
+    {
+      "ym": "2021-06",
+      "employees": 2434
+    },
+    {
+      "ym": "2021-07",
+      "employees": 80
+    },
+    {
+      "ym": "2021-08",
+      "employees": 1867
+    },
+    {
+      "ym": "2021-09",
+      "employees": 161
+    },
+    {
+      "ym": "2021-10",
+      "employees": 22
+    },
+    {
+      "ym": "2021-11",
+      "employees": 2070
+    },
+    {
+      "ym": "2021-12",
+      "employees": 1200
+    },
+    {
+      "ym": "2022-01",
+      "employees": 510
+    },
+    {
+      "ym": "2022-02",
+      "employees": 3685
+    },
+    {
+      "ym": "2022-03",
+      "employees": 5714
+    },
+    {
+      "ym": "2022-04",
+      "employees": 4128
+    },
+    {
+      "ym": "2022-05",
+      "employees": 12985
+    },
+    {
+      "ym": "2022-06",
+      "employees": 18144
+    },
+    {
+      "ym": "2022-07",
+      "employees": 16238
+    },
+    {
+      "ym": "2022-08",
+      "employees": 13055
+    },
+    {
+      "ym": "2022-09",
+      "employees": 5881
+    },
+    {
+      "ym": "2022-10",
+      "employees": 20671
+    },
+    {
+      "ym": "2022-11",
+      "employees": 53594
+    },
+    {
+      "ym": "2022-12",
+      "employees": 10664
+    },
+    {
+      "ym": "2023-01",
+      "employees": 89709
+    },
+    {
+      "ym": "2023-02",
+      "employees": 39902
+    },
+    {
+      "ym": "2023-03",
+      "employees": 37963
+    },
+    {
+      "ym": "2023-04",
+      "employees": 20100
+    },
+    {
+      "ym": "2023-05",
+      "employees": 15127
+    },
+    {
+      "ym": "2023-06",
+      "employees": 11206
+    },
+    {
+      "ym": "2023-07",
+      "employees": 10690
+    },
+    {
+      "ym": "2023-08",
+      "employees": 10178
+    },
+    {
+      "ym": "2023-09",
+      "employees": 4707
+    },
+    {
+      "ym": "2023-10",
+      "employees": 8076
+    },
+    {
+      "ym": "2023-11",
+      "employees": 8373
+    },
+    {
+      "ym": "2023-12",
+      "employees": 8189
+    },
+    {
+      "ym": "2024-01",
+      "employees": 34137
+    },
+    {
+      "ym": "2024-02",
+      "employees": 15729
+    },
+    {
+      "ym": "2024-03",
+      "employees": 7403
+    },
+    {
+      "ym": "2024-04",
+      "employees": 22423
+    },
+    {
+      "ym": "2024-05",
+      "employees": 11011
+    },
+    {
+      "ym": "2024-06",
+      "employees": 10083
+    },
+    {
+      "ym": "2024-07",
+      "employees": 9051
+    },
+    {
+      "ym": "2024-08",
+      "employees": 25944
+    },
+    {
+      "ym": "2024-09",
+      "employees": 4036
+    },
+    {
+      "ym": "2024-10",
+      "employees": 3782
+    },
+    {
+      "ym": "2024-11",
+      "employees": 6755
+    },
+    {
+      "ym": "2024-12",
+      "employees": 2568
+    },
+    {
+      "ym": "2025-01",
+      "employees": 2492
+    },
+    {
+      "ym": "2025-02",
+      "employees": 16234
+    },
+    {
+      "ym": "2025-03",
+      "employees": 8834
+    },
+    {
+      "ym": "2025-04",
+      "employees": 24545
+    },
+    {
+      "ym": "2025-05",
+      "employees": 10397
+    },
+    {
+      "ym": "2025-06",
+      "employees": 1306
+    },
+    {
+      "ym": "2025-07",
+      "employees": 9000
+    }
+  ],
+  "top5": [
+    {
+      "company": "Intel",
+      "count": 22000,
+      "date": "2025-04-23"
+    },
+    {
+      "company": "Intel",
+      "count": 15000,
+      "date": "2024-08-01"
+    },
+    {
+      "company": "Tesla",
+      "count": 14000,
+      "date": "2024-04-15"
+    },
+    {
+      "company": "Google",
+      "count": 12000,
+      "date": "2023-01-20"
+    },
+    {
+      "company": "Meta",
+      "count": 11000,
+      "date": "2022-11-09"
+    }
+  ],
+  "firstDate": "2020-03-11",
+  "lastDate": "2025-07-02"
+}
